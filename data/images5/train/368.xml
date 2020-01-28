@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>368.jpg</filename>
+  <path>/home/pmdsu/Documents/farchan/ssdDataset/data/images/train</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>573</width>
+    <height>420</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>logo</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>236</xmin>
+      <ymin>310</ymin>
+      <xmax>288</xmax>
+      <ymax>338</ymax>
+    </bndbox>
+  </object>
+</annotation>
