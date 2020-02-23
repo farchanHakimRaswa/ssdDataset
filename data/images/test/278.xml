@@ -1,7 +1,7 @@
 <annotation>
-	<folder>1</folder>
-	<filename>278.JPG</filename>
-	<path>/home/kosala/BISMILLAH_DISERTASI/dataset/PRIMER fiX_resize/4 SUBSET/1/278.JPG</path>
+	<folder>2</folder>
+	<filename>412.JPG</filename>
+	<path>/home/kosala/BISMILLAH_DISERTASI/dataset/PRIMER fiX_resize/4 SUBSET/2/412.JPG</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>463</xmin>
-			<ymin>389</ymin>
-			<xmax>575</xmax>
-			<ymax>428</ymax>
+			<xmin>398</xmin>
+			<ymin>495</ymin>
+			<xmax>517</xmax>
+			<ymax>534</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,34 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>498</xmin>
-			<ymin>313</ymin>
-			<xmax>526</xmax>
-			<ymax>334</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>plate</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>2</xmin>
-			<ymin>347</ymin>
-			<xmax>61</xmax>
-			<ymax>367</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>logo</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>16</xmin>
-			<ymin>272</ymin>
-			<xmax>42</xmax>
-			<ymax>291</ymax>
+			<xmin>434</xmin>
+			<ymin>395</ymin>
+			<xmax>470</xmax>
+			<ymax>424</ymax>
 		</bndbox>
 	</object>
 </annotation>
