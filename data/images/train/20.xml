@@ -1,7 +1,7 @@
 <annotation>
-	<folder>3</folder>
+	<folder>4</folder>
 	<filename>20.JPG</filename>
-	<path>/home/kosala/BISMILLAH_DISERTASI/dataset/PRIMER fiX_resize/4 SUBSET/3/20.JPG</path>
+	<path>/home/kosala/BISMILLAH_DISERTASI/dataset/PRIMER fiX_resize/4 SUBSET/4/20.JPG</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>261</xmin>
-			<ymin>380</ymin>
-			<xmax>336</xmax>
-			<ymax>405</ymax>
+			<xmin>372</xmin>
+			<ymin>388</ymin>
+			<xmax>462</xmax>
+			<ymax>417</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>284</xmin>
-			<ymin>334</ymin>
-			<xmax>313</xmax>
-			<ymax>353</ymax>
+			<xmin>399</xmin>
+			<ymin>321</ymin>
+			<xmax>426</xmax>
+			<ymax>346</ymax>
 		</bndbox>
 	</object>
 </annotation>
