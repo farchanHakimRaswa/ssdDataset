@@ -1,13 +1,13 @@
 <annotation>
   <folder></folder>
   <filename>111.jpg</filename>
-  <path>/home/pmdsu/Downloads/LOGO/2/</path>
+  <path>/home/pmdsu/Downloads/LOGO/1/</path>
   <source>
     <database>Unknown</database>
   </source>
   <size>
-    <width>171</width>
-    <height>108</height>
+    <width>384</width>
+    <height>246</height>
     <depth>3</depth>
   </size>
   <segmented>0</segmented>
@@ -17,10 +17,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>71</xmin>
-      <ymin>88</ymin>
-      <xmax>88</xmax>
-      <ymax>104</ymax>
+      <xmin>166</xmin>
+      <ymin>155</ymin>
+      <xmax>218</xmax>
+      <ymax>187</ymax>
     </bndbox>
   </object>
 </annotation>
