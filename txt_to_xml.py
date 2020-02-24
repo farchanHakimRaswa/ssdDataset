@@ -6,16 +6,16 @@ from PIL import Image
 import csv
 import os
 
-IMG_PATH = '/home/pmdsu/Documents/farchan/ssdDataset/data/images/train'
+IMG_PATH = '/home/pmdsu/Downloads/LOGO/2/'
 fw = os.listdir(IMG_PATH)
 
 # path of save xml file
 
-save_path = '/home/pmdsu/Documents/farchan/ssdDataset/data/anotasi/'
+save_path = '/home/pmdsu/Downloads/LOGO/2/'
 
 # txt_folder is txt file root that using darknet rectbox
 
-txt_folder = '/home/pmdsu/Documents/farchan/ssdDataset/data/txt'
+txt_folder = '/home/pmdsu/Downloads/LOGO/tmp'
 
 # edit ypur label set
 
