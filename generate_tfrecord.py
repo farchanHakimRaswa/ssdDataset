@@ -18,7 +18,7 @@ import pandas as pd
 import tensorflow as tf
 import sys
 
-sys.path.append("/home/pmdsu/Downloads/models/research/")
+sys.path.append("../../models/research")
 
 
 from object_detection.utils import dataset_util
