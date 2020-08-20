@@ -35,7 +35,7 @@ def xml_to_csv(path):
             classes_names.append(member[0].text)
             name_file = root.find("filename").text
             value = (
-                name_file.lower(),
+                name_file,
                 int(root.find("size")[0].text),
                 int(root.find("size")[1].text),
                 member[0].text,
