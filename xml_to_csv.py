@@ -44,7 +44,7 @@ def xml_to_csv(path):
                 int(member[4][2].text),
                 int(member[4][3].text),
             )
-            if name_file == 'plate':
+            if member[0].text == "plate":
                 xml_list.append(value)
     column_name = [
         "filename",
