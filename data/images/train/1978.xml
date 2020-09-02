@@ -1,0 +1,26 @@
+<annotation>
+  <folder></folder>
+  <filename>291.jpg</filename>
+  <path>/home/pmdsu/Downloads/LOGO/4/</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>171</width>
+    <height>138</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>logo</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>73</xmin>
+      <ymin>107</ymin>
+      <xmax>92</xmax>
+      <ymax>127</ymax>
+    </bndbox>
+  </object>
+</annotation>
