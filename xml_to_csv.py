@@ -33,7 +33,7 @@ def xml_to_csv(path):
         root = tree.getroot()
         for member in root.findall("object"):
             classes_names.append(member[0].text)
-            file_name = xml_file.replace("xml", "JPG")
+            file_name = xml_file.replace("xml", "jpg")
             file_name = file_name.replace("data/images/train/", "")
             file_name = file_name.replace("data/images/test/", "")
             value = (
